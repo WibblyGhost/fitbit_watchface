@@ -1,0 +1,63 @@
+.background {
+    viewport-fill: white;
+}
+
+#clockFaceLabel {
+    font-size: 80;
+    font-family: System-Regular;
+    text-length: 32;
+    text-anchor: start;
+    x: 5%;
+    y: 30%;
+    fill: white;
+}
+
+#weekdayLabel {
+    font-size: 30;
+    font-family: System-Regular;
+    text-length: 32;
+    text-anchor: start;
+    x: 5%;
+    y: 40%;
+    fill: white;
+}
+
+#dateLabel {
+    font-size: 30;
+    font-family: System-Regular;
+    text-length: 32;
+    text-anchor: start;
+    x: 5%;
+    y: 50%;
+    fill: white;
+}
+
+#batteryStatusLabel {
+    font-size: 15;
+    font-family: System-Regular;
+    text-length: 32;
+    text-anchor: end;
+    x: 85%;
+    y: 75%;
+    fill: white;
+}
+
+#heartRateLabel {
+    font-size: 20;
+    font-family: System-Regular;
+    text-length: 32;
+    text-anchor: end;
+    x: 85%;
+    y: 85%;
+    fill: white;
+}
+
+#distanceKmLabel {
+    font-size: 20;
+    font-family: System-Regular;
+    text-length: 32;
+    text-anchor: end;
+    x: 85%;
+    y: 95%;
+    fill: white;
+}
