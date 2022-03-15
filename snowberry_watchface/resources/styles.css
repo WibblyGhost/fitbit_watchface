@@ -3,61 +3,61 @@
 }
 
 #clockFaceLabel {
-    font-size: 80;
+    font-size: 90;
     font-family: System-Regular;
     text-length: 32;
-    text-anchor: start;
-    x: 5%;
+    text-anchor: middle;
+    x: 50%;
     y: 30%;
     fill: white;
 }
 
 #weekdayLabel {
-    font-size: 30;
-    font-family: System-Regular;
+    font-size: 40;
+    font-family: System-Light;
     text-length: 32;
-    text-anchor: start;
-    x: 5%;
-    y: 40%;
+    text-anchor: middle;
+    x: 50%;
+    y: 44%;
     fill: white;
 }
 
 #dateLabel {
-    font-size: 30;
-    font-family: System-Regular;
+    font-size: 40;
+    font-family: System-Light;
     text-length: 32;
-    text-anchor: start;
-    x: 5%;
-    y: 50%;
+    text-anchor: middle;
+    x: 50%;
+    y: 58%;
     fill: white;
 }
 
 #batteryStatusLabel {
-    font-size: 15;
+    font-size: 20;
     font-family: System-Regular;
     text-length: 32;
-    text-anchor: end;
-    x: 85%;
-    y: 75%;
+    text-anchor: start;
+    x: 78%;
+    y: 79%;
     fill: white;
 }
 
 #heartRateLabel {
-    font-size: 20;
+    font-size: 30;
     font-family: System-Regular;
     text-length: 32;
     text-anchor: end;
-    x: 85%;
-    y: 85%;
-    fill: white;
+    x: 88%;
+    y: 89%;
+    fill: white
 }
 
 #distanceKmLabel {
-    font-size: 20;
+    font-size: 30;
     font-family: System-Regular;
     text-length: 32;
     text-anchor: end;
-    x: 85%;
-    y: 95%;
+    x: 88%;
+    y: 98%;
     fill: white;
 }

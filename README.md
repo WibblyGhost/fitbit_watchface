@@ -1,8 +1,4 @@
-# fitbit_watchface
+# FitBit Watch Face
 
-C:\Users\zacsa\AppData\Local\Programs\@fitbitsimulator\resources\static\devicesim\win
+This is just a simple project I made so that I could have a well designed FitBit watch face for my personal device. I found many FitBit faces were just badly designed and felt cluttered, plus I wanted to incorporate a more New Zealand themed background of mountain snow berries.
 
-install node
-maybe install Visual Studio?
-https://joaoneto.blog/getting-started-with-fitbit-development-part-ii/
-copy cert to %localappdata%/~/fitbit

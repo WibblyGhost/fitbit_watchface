@@ -7,7 +7,7 @@ import { HeartRateSensor } from "heart-rate";
 import me from "appbit";
 import { preferences } from "user-settings";
 import userActivity from "user-activity";
-let document = require("document");
+let newDocument = require("document");
 
 clock.granularity = "minutes";
 
@@ -36,12 +36,12 @@ var weekdays = {
     0: "Sunday",
 };
 
-const clockFaceLabel = document.getElementById("clockFaceLabel");
-let weekdayLabel = document.getElementById("weekdayLabel");
-let dateLabel = document.getElementById("dateLabel");
-let batteryStatusLabel = document.getElementById("batteryStatusLabel");
-let heartRateLabel = document.getElementById("heartRateLabel");
-let distanceKmLabel = document.getElementById("distanceKmLabel");
+const clockFaceLabel = newDocument.getElementById("clockFaceLabel");
+let weekdayLabel = newDocument.getElementById("weekdayLabel");
+let dateLabel = newDocument.getElementById("dateLabel");
+let batteryStatusLabel = newDocument.getElementById("batteryStatusLabel");
+let heartRateLabel = newDocument.getElementById("heartRateLabel");
+let distanceKmLabel = newDocument.getElementById("distanceKmLabel");
 
 heartRateLabel.text = "--";
 

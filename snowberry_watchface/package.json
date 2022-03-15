@@ -4,13 +4,13 @@
   "private": true,
   "license": "UNLICENSED",
   "devDependencies": {
-    "@fitbit/sdk": "~4.1.0",
+    "@fitbit/sdk": "~4.3.0",
     "@fitbit/sdk-cli": "^1.7.3"
   },
   "fitbit": {
     "appUUID": "514bfbee-36e1-4143-8347-70422f19a4a1",
     "appType": "clockface",
-    "appDisplayName": "snowyberry_watchface",
+    "appDisplayName": "Snowberry Watch Face",
     "iconFile": "resources/icon.png",
     "wipeColor": "#ffffff",
     "requestedPermissions": [
